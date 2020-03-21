@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hxghak.github.io</id>
+    <id>https://hxghak.com</id>
     <title>南岛晚风</title>
-    <updated>2020-03-21T17:19:45.143Z</updated>
+    <updated>2020-03-21T17:24:25.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hxghak.github.io"/>
-    <link rel="self" href="https://hxghak.github.io/atom.xml"/>
+    <link rel="alternate" href="https://hxghak.com"/>
+    <link rel="self" href="https://hxghak.com/atom.xml"/>
     <subtitle>No description。</subtitle>
-    <logo>https://hxghak.github.io/images/avatar.png</logo>
-    <icon>https://hxghak.github.io/favicon.ico</icon>
+    <logo>https://hxghak.com/images/avatar.png</logo>
+    <icon>https://hxghak.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 南岛晚风</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://hxghak.github.io/post/hello-gridea/</id>
-        <link href="https://hxghak.github.io/post/hello-gridea/">
+        <id>https://hxghak.com/post/hello-gridea/</id>
+        <link href="https://hxghak.com/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
