@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hxghak.com</id>
     <title>南岛晚风</title>
-    <updated>2020-03-21T17:25:00.600Z</updated>
+    <updated>2020-03-21T17:26:08.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hxghak.com"/>
     <link rel="self" href="https://hxghak.com/atom.xml"/>
-    <subtitle>No description。</subtitle>
+    <subtitle>No description.</subtitle>
     <logo>https://hxghak.com/images/avatar.png</logo>
     <icon>https://hxghak.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 南岛晚风</rights>
