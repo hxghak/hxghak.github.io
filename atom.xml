@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hxghak.com</id>
     <title>南岛晚风</title>
-    <updated>2020-03-21T17:28:46.364Z</updated>
+    <updated>2020-03-21T17:37:12.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hxghak.com"/>
     <link rel="self" href="https://hxghak.com/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://hxghak.com/images/avatar.png</logo>
     <icon>https://hxghak.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 南岛晚风</rights>
+    <entry>
+        <title type="html"><![CDATA[还没想好这个站点用来作什么]]></title>
+        <id>https://hxghak.com/post/w9rx6t6JS/</id>
+        <link href="https://hxghak.com/post/w9rx6t6JS/">
+        </link>
+        <updated>2020-03-21T17:32:23.000Z</updated>
+        <content type="html"><![CDATA[<p>去年底我在腾讯云上搭建了几个小站点，其中之一是我的博客。</p>
+<p>当然也算不上是一个博客，毕竟迄今为止已经停更超过一年时间了。</p>
+<p>但我总是担心有一天，服务器上的东西会莫名其妙消失，就像很多文字会莫名飞走一样。</p>
+<p>我想着给我的小博客找一个可以备份的地方，所谓狡兔有三窟，不是兔子有多狡猾，它也爱惜命呀！</p>
+<p>额，唠叨半天，我还是不知道这个地方用来干嘛？</p>
+<p>背诵全文？还是在新的地方弄点别的东西。</p>
+<p>暂时还没有想好。</p>
+<p>也许下一次更新就会知道了。</p>
+<p>也许不会有下一次更新。</p>
+<p>让俺们擦亮眼睛等等看！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hxghak.com/post/hello-gridea/</id>
