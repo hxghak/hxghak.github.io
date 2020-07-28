@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hxghak.com</id>
     <title>南岛晚风</title>
-    <updated>2020-07-28T12:00:40.186Z</updated>
+    <updated>2020-07-28T12:05:02.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hxghak.com"/>
     <link rel="self" href="https://hxghak.com/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://hxghak.com/images/avatar.png</logo>
     <icon>https://hxghak.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 南岛晚风</rights>
+    <entry>
+        <title type="html"><![CDATA[我们的琇琇]]></title>
+        <id>https://hxghak.com/post/PpWw3QQE0/</id>
+        <link href="https://hxghak.com/post/PpWw3QQE0/">
+        </link>
+        <updated>2020-07-28T12:00:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>可爱的琇琇</p>
+<p>正在吃</p>
+<p>从别的猫咪嘴里抢来的</p>
+<p>冻干</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>可爱的琇琇</p>
+<p>正在吃</p>
+<p>从别的猫咪嘴里抢来的</p>
+<p>冻干</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://hxghak.com/post-images/1595937869753.JPG" alt="" loading="lazy"></figure>
+<p>🤡</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[还没想好这个站点用来作什么]]></title>
         <id>https://hxghak.com/post/w9rx6t6JS/</id>
